@@ -1,0 +1,2 @@
+# practiceC
+basic c programming
