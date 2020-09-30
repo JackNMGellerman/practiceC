@@ -1,4 +1,4 @@
-   # Factorial Program using loop
+   # Factorial Program using loop :-
    
    #include<stdio.h>  
     int main()    
@@ -13,7 +13,7 @@
     return 0;  
     }   
     
-   # Factorial Proam using recursion in C 
+   # Factorial Program using recursion in C :-
    
    #include<stdio.h>  
   
